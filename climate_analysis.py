@@ -1,4 +1,7 @@
+
 """ Climate Analysis Tools """
+
+# TODO(mvereten): Add call to process rainfall
 
 import sys
 import temp_conversion
